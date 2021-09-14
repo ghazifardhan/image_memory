@@ -1,4 +1,4 @@
-# image_memory
+# example
 
 A new Flutter project.
 

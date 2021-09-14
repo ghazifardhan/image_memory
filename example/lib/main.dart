@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:image_memory/image_memory.dart';
 
 void main() {
   runApp(MyApp());
