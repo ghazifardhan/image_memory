@@ -1,7 +1,7 @@
 name: image_memory
 description: Flutter library to load and cache network images. Can also be used with placeholder and error widgets.
 homepage: https://github.com/ghazifardhan/image_memory
-version: 3.1.0
+version: 1.0.0
 
 dependencies:
   flutter:
